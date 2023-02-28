@@ -1,8 +1,8 @@
 {
   "name": "axies-reactjs",
-  "homepage": "https://axiesreact.surielementor.com",
   "version": "1.0.1",
   "private": true,
+  "homepage": "./",
   "scripts": {
     "dev": "react-scripts start",
     "start": "react-scripts start",
